@@ -29,7 +29,7 @@
 
 ## webinars
 * Rstudio webinars: https://resources.rstudio.com/webinars
-* Internatianal Society for Disease Surveillance: https://vimeo.com/syndromic
+* ISDS webinars: https://vimeo.com/syndromic
 
 ## podcasts
 * Lex Fridman AI Podcast: https://lexfridman.com/ai/
