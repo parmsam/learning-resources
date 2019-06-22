@@ -6,10 +6,17 @@
 * Rstudio staff member blog: http://josiahparry.com/
 * Count Bayesie: https://www.countbayesie.com/
 * That's so Random: https://edwinth.github.io/
+* Krebs on Security: https://krebsonsecurity.com/
 
 ## books
 * Building Blocks of Theoretical Comp Sci by Margaret M. Fleck: http://mfleck.cs.illinois.edu/building-blocks/
 * Algorithms by by Jeff Erickson: http://jeffe.cs.illinois.edu/teaching/algorithms/
+* The Art of Data Science by Roger Peng: https://leanpub.com/artofdatascience
+* Executive Data Science by Roger Peng: https://leanpub.com/eds
+
+## interactive learning
+* Regex: https://regexone.com/
+* Flukeout: https://flukeout.github.io/
 
 ## color selection 
 * Colorbrewer: http://colorbrewer2.org/
@@ -22,6 +29,7 @@
 
 ## webinars
 * Rstudio webinars: https://resources.rstudio.com/webinars
+* Internatianal Society for Disease Surveillance: https://vimeo.com/syndromic
 
 ## podcasts
 * Lex Fridman AI Podcast: https://lexfridman.com/ai/
