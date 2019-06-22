@@ -30,7 +30,7 @@
 * Google's Style Guides: http://google.github.io/styleguide/
 
 ## practice quizes and exams
-* SQL: https://www.w3schools.com/sql/sql_quiz.asp
+* SQL, Python, HTML and others: https://www.w3schools.com/
 
 ## color selection 
 * Colorbrewer: http://colorbrewer2.org/
