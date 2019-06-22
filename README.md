@@ -23,7 +23,7 @@
 * Regex: https://regexone.com/
 * Flukeout: https://flukeout.github.io/
 * Book of Proofs: https://www.bookofproofs.org/
-* National HIV Curriculum from the University of Washington and the AETC National Coordinating Resource Center: https://www.hiv.uw.edu/
+* National HIV Curriculum: https://www.hiv.uw.edu/
 
 ## style guide
 * Tidyverse Style Guide by Hadley Wickham: https://style.tidyverse.org/
