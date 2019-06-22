@@ -1,4 +1,4 @@
-# Comprehensive List of Useful Resources for Learning
+# Sam's List of Useful Resources for Learning
 
 ## blogs
 * Rweekly: https://rweekly.org/
