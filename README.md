@@ -18,6 +18,7 @@
 * Executive Data Science by Roger Peng: https://leanpub.com/eds
 * Inferential Thinking by Ani Adhikari and John DeNero: https://www.inferentialthinking.com/chapters/intro
 * Data Science for Startups by Ben G Weber: https://bgweber.github.io/
+* Data Analysis and Prediction Algorithms with R: https://rafalab.github.io/dsbook/
 
 ## interactive learning websites
 * Regex: https://regexone.com/
@@ -25,7 +26,6 @@
 * Book of Proofs: https://www.bookofproofs.org/
 * National HIV Curriculum: https://www.hiv.uw.edu/
 * She Loves Math: https://www.shelovesmath.com/ 
-* 
 
 ## style guide
 * Tidyverse Style Guide by Hadley Wickham: https://style.tidyverse.org/
