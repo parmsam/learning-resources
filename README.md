@@ -19,11 +19,13 @@
 * Inferential Thinking by Ani Adhikari and John DeNero: https://www.inferentialthinking.com/chapters/intro
 * Data Science for Startups by Ben G Weber: https://bgweber.github.io/
 
-## interactive learning
+## interactive learning websites
 * Regex: https://regexone.com/
 * Flukeout: https://flukeout.github.io/
 * Book of Proofs: https://www.bookofproofs.org/
 * National HIV Curriculum: https://www.hiv.uw.edu/
+* She Loves Math: https://www.shelovesmath.com/ 
+* 
 
 ## style guide
 * Tidyverse Style Guide by Hadley Wickham: https://style.tidyverse.org/
@@ -51,3 +53,11 @@
 * Talk Python to Me: https://talkpython.fm/episodes/all
 * Python Bytes: https://pythonbytes.fm/
 * This Podcast Will Kill You: http://thispodcastwillkillyou.com/
+
+## workshops, trainings, and tutorials
+* Harvard Data Science workshop materials: https://dss.iq.harvard.edu/workshop-materials
+* FOCUS on Field Epidemiology: https://sph.unc.edu/nciph/focus/ 
+* Purrr Tutorial: https://jennybc.github.io/purrr-tutorial/index.html 
+
+## course materials
+* Hadley Wickham's Stats 377 readings: https://github.com/hadley/stats337 
