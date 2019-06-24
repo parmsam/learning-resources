@@ -16,9 +16,11 @@
 * Algorithms by by Jeff Erickson: http://jeffe.cs.illinois.edu/teaching/algorithms/
 * The Art of Data Science by Roger Peng: https://leanpub.com/artofdatascience
 * Executive Data Science by Roger Peng: https://leanpub.com/eds
-* Inferential Thinking by Ani Adhikari and John DeNero: https://www.inferentialthinking.com/chapters/intro
+* The Foundations of Data Science by Ani Adhikari and John DeNero: https://www.inferentialthinking.com/chapters/intro
 * Data Science for Startups by Ben G Weber: https://bgweber.github.io/
 * Data Analysis and Prediction Algorithms with R: https://rafalab.github.io/dsbook/
+* Elements of Statistical Learning by Trevor Hastie et al.: https://web.stanford.edu/~hastie/Papers/ESLII.pdf
+* An Introduction to Statistical Learning: with Applications in R by Gareth James et al.: https://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf
 
 ## interactive learning websites
 * Regex: https://regexone.com/
