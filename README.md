@@ -7,6 +7,7 @@
 * Count Bayesie: https://www.countbayesie.com/
 * That's so Random: https://edwinth.github.io/
 * Deeply Trivial: http://www.deeplytrivial.com/p/about.html
+* Variance Explained: http://varianceexplained.org/
 * Krebs on Security: https://krebsonsecurity.com/
 
 ## books
