@@ -9,6 +9,7 @@
 * Deeply Trivial: http://www.deeplytrivial.com/p/about.html
 * Variance Explained: http://varianceexplained.org/
 * Krebs on Security: https://krebsonsecurity.com/
+* Suzan Baert: https://suzan.rbind.io/
 
 ## books
 * R for Data Science by Hadley Wickham: https://r4ds.had.co.nz/
