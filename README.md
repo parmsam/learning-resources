@@ -31,6 +31,7 @@
 * National HIV Curriculum: https://www.hiv.uw.edu/
 * She Loves Math: https://www.shelovesmath.com/ 
 * Our World in Data: https://ourworldindata.org/
+* Cplusplus: http://www.cplusplus.com/
 
 ## style guide
 * Tidyverse Style Guide by Hadley Wickham: https://style.tidyverse.org/
