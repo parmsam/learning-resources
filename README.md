@@ -1,15 +1,17 @@
 # Sam's List of Useful Resources for Learning
 
 ## blogs
-* Rweekly: https://rweekly.org/
-* Rviews: https://rviews.rstudio.com/
-* Rstudio staff member blog: http://josiahparry.com/
-* Count Bayesie: https://www.countbayesie.com/
-* That's so Random: https://edwinth.github.io/
-* Deeply Trivial: http://www.deeplytrivial.com/p/about.html
-* Variance Explained: http://varianceexplained.org/
-* Krebs on Security: https://krebsonsecurity.com/
-* Suzan Baert: https://suzan.rbind.io/
+| Resource| URL
+| Rweekly|https://rweekly.org/
+| Rviews|https://rviews.rstudio.com/
+| Rstudio staff member blog|http://josiahparry.com/
+| Count Bayesie|https://www.countbayesie.com/
+| That's so Random|https://edwinth.github.io/
+| Deeply Trivial|http://www.deeplytrivial.com/p/about.html
+| Variance Explained|http://varianceexplained.org/
+| Krebs on Security|https://krebsonsecurity.com/
+| Suzan Baert|https://suzan.rbind.io/
+
 
 ## books and documentation
 * R for Data Science by Hadley Wickham: https://r4ds.had.co.nz/
