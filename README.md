@@ -32,6 +32,7 @@
 * She Loves Math: https://www.shelovesmath.com/ 
 * Our World in Data: https://ourworldindata.org/
 * Cplusplus: http://www.cplusplus.com/
+* Data Visualization a practical introduction by Kieran Healy: https://socviz.co/
 
 ## style guide
 * Tidyverse Style Guide by Hadley Wickham: https://style.tidyverse.org/
