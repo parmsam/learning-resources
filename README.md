@@ -58,7 +58,7 @@
 ## color selection
 | Resource| URL
 | :--- | :---|
-* Colorbrewer: http://colorbrewer2.org/
+| Colorbrewer| http://colorbrewer2.org/
 
 ## journals
 | Resource| URL
