@@ -11,7 +11,7 @@
 * Krebs on Security: https://krebsonsecurity.com/
 * Suzan Baert: https://suzan.rbind.io/
 
-## books
+## books and documentation
 * R for Data Science by Hadley Wickham: https://r4ds.had.co.nz/
 * Advanced R by Hadley Wickham: https://adv-r.hadley.nz/
 * Building Blocks of Theoretical Comp Sci by Margaret M. Fleck: http://mfleck.cs.illinois.edu/building-blocks/
@@ -23,6 +23,9 @@
 * Data Analysis and Prediction Algorithms with R: https://rafalab.github.io/dsbook/
 * Elements of Statistical Learning by Trevor Hastie et al.: https://web.stanford.edu/~hastie/Papers/ESLII.pdf
 * An Introduction to Statistical Learning: with Applications in R by Gareth James et al.: https://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf
+* Data Visualization a practical introduction by Kieran Healy: https://socviz.co/
+* R Markdown the definitive guide: https://bookdown.org/yihui/rmarkdown/
+* Official Python Documentation: https://docs.python.org/
 
 ## interactive learning websites
 * Regex: https://regexone.com/
@@ -32,7 +35,6 @@
 * She Loves Math: https://www.shelovesmath.com/ 
 * Our World in Data: https://ourworldindata.org/
 * Cplusplus: http://www.cplusplus.com/
-* Data Visualization a practical introduction by Kieran Healy: https://socviz.co/
 
 ## style guide
 * Tidyverse Style Guide by Hadley Wickham: https://style.tidyverse.org/
