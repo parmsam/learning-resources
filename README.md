@@ -2,6 +2,7 @@
 
 ## blogs
 | Resource| URL
+| :--- | :---|
 | Rweekly|https://rweekly.org/
 | Rviews|https://rviews.rstudio.com/
 | Rstudio staff member blog|http://josiahparry.com/
