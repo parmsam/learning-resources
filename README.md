@@ -96,4 +96,5 @@
 
 ## course materials
 | Resource| URL
-| :--- | :---|| Hadley Wickham's Stats 377 readings|https://github.com/hadley/stats337
+| :--- | :---|
+|Hadley Wickham's Stats 377 readings|https://github.com/hadley/stats337
