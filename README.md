@@ -27,7 +27,7 @@
 | Data Science for Startups by Ben G Weber|https://bgweber.github.io/
 | Data Analysis and Prediction Algorithms with R|https://rafalab.github.io/dsbook/
 | Elements of Statistical Learning by Trevor Hastie et al.|https://web.stanford.edu/~hastie/Papers/ESLII.pdf
-| An Introduction to Statistical Learning|with Applications in R by Gareth James et al.|https://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf
+| An Introduction to Statistical Learning with Applications in R by Gareth James et al.|https://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf
 | Data Visualization a practical introduction by Kieran Healy|https://socviz.co/
 | R Markdown the definitive guide|https://bookdown.org/yihui/rmarkdown/
 | Official Python Documentation|https://docs.python.org/
