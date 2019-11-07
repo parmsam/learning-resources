@@ -31,6 +31,7 @@
 | Data Visualization a practical introduction by Kieran Healy|https://socviz.co/
 | R Markdown the definitive guide|https://bookdown.org/yihui/rmarkdown/
 | Official Python Documentation|https://docs.python.org/
+| Learning Statistics with R| https://learningstatisticswithr.com/
 
 
 ## interactive learning websites
