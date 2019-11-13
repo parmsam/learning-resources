@@ -6,7 +6,7 @@
 * [books](#books)
 * [interactive_learning](#interactive_learning)
 * [style_guides](#style_guides)
-* [excercises](#excercises)
+* [exercises](#exercises)
 * [color_selection](#color_selection)
 * [journals](#journals)
 * [newsletters](#newsletters)
@@ -69,7 +69,7 @@
 | Tidyverse Style Guide by Hadley Wickham|https://style.tidyverse.org/
 | Google's Style Guides|http://google.github.io/styleguide/
 
-## excercises
+## exercises
 | Resource| URL
 | :--- | :---|
 | SQL, Python, HTML and others|https://www.w3schools.com/
