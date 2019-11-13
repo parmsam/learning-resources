@@ -1,19 +1,21 @@
 # Sam's List of Useful Resources for Learning
 
-### Table of Contents
-### blogs
-### books and documentation
-### interactive learning websites
-### style guide
-### practice quizes and exams
-### color selection
-### journals
-### newsletters
-### webinars
-### podcasts
-### talks
-### workshops, trainings, and tutorials
-### course materials
+<!--ts-->
+## Table of Contents  
+* [blogs](#blogs)
+* [books](#books)
+* [interactive_learning](#interactive_learning)
+* [style_guides](#style_guides)
+* [practice](#practice)
+* [color_selection](#color_selection)
+* [journals](#journals)
+* [newsletters](#newsletters)
+* [webinars](#webinars)
+* [podcasts](#podcasts)
+* [talks](#talks)
+* [training_materials](#training_materials)
+* [course materials](#course_materials)
+<!--te-->
 
 ## blogs
 | Resource| URL
@@ -29,7 +31,7 @@
 | Suzan Baert|https://suzan.rbind.io/
 
 
-## books and documentation
+## books
 | Resource| URL
 | :--- | :---|
 | R for Data Science by Hadley Wickham|https://r4ds.had.co.nz/
@@ -50,7 +52,7 @@
 | Text mining with R by Julia Silge and David Robinson| https://www.tidytextmining.com/
 
 
-## interactive learning websites
+## interactive_learning
 | Resource| URL
 | :--- | :---|
 | Regex|https://regexone.com/
@@ -61,18 +63,18 @@
 | Our World in Data|https://ourworldindata.org/
 | Cplusplus|http://www.cplusplus.com/
 
-## style guide
+## style_guides
 | Resource| URL
 | :--- | :---|
 | Tidyverse Style Guide by Hadley Wickham|https://style.tidyverse.org/
 | Google's Style Guides|http://google.github.io/styleguide/
 
-## practice quizes and exams
+## practice
 | Resource| URL
 | :--- | :---|
 | SQL, Python, HTML and others|https://www.w3schools.com/
 
-## color selection
+## color_selection
 | Resource| URL
 | :--- | :---|
 | Colorbrewer| http://colorbrewer2.org/
@@ -107,7 +109,7 @@
 | :--- | :---|
 |The unreasonable effectiveness of public work by David Robinson|https://resources.rstudio.com/rstudio-conf-2019/the-unreasonable-effectiveness-of-public-work
 
-## workshops, trainings, and tutorials
+## training_materials
 | Resource| URL
 | :--- | :---|
 | Harvard Data Science workshop materials|https://dss.iq.harvard.edu/workshop-materials
@@ -115,7 +117,7 @@
 | Purrr Tutorial|https://jennybc.github.io/purrr-tutorial/index.html 
 
 
-## course materials
+## course_materials
 | Resource| URL
 | :--- | :---|
 |Hadley Wickham's Stats 377 readings|https://github.com/hadley/stats337
