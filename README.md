@@ -32,6 +32,7 @@
 | R Markdown the definitive guide|https://bookdown.org/yihui/rmarkdown/
 | Official Python Documentation|https://docs.python.org/
 | Learning Statistics with R| https://learningstatisticswithr.com/
+| Text mining with R| https://www.tidytextmining.com/
 
 
 ## interactive learning websites
