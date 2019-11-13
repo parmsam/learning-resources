@@ -1,19 +1,19 @@
 # Sam's List of Useful Resources for Learning
 
-## Table of Contents
-## blogs
-## books and documentation
-## interactive learning websites
-## style guide
-## practice quizes and exams
-## color selection
-## journals
-## newsletters
-## webinars
-## podcasts
-## talks
-## workshops, trainings, and tutorials
-## course materials
+### Table of Contents
+### blogs
+### books and documentation
+### interactive learning websites
+### style guide
+### practice quizes and exams
+### color selection
+### journals
+### newsletters
+### webinars
+### podcasts
+### talks
+### workshops, trainings, and tutorials
+### course materials
 
 ## blogs
 | Resource| URL
