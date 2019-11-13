@@ -87,7 +87,10 @@
 | Python Bytes|https://pythonbytes.fm/
 | This Podcast Will Kill You|http://thispodcastwillkillyou.com/
 
-
+## talks
+| Resource| URL
+| :--- | :---|
+|The unreasonable effectiveness of public work by David Robinson|https://resources.rstudio.com/rstudio-conf-2019/the-unreasonable-effectiveness-of-public-work
 ## workshops, trainings, and tutorials
 | Resource| URL
 | :--- | :---|
