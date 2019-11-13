@@ -1,4 +1,4 @@
-# Sam's List of Useful Resources for Learning
+# Sam's List of Learning Resources
 
 <!--ts-->
 ## Table of Contents  
