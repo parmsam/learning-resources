@@ -13,8 +13,8 @@
 * [webinars](#webinars)
 * [podcasts](#podcasts)
 * [talks](#talks)
-* [training_materials](#training_materials)
-* [course materials](#course_materials)
+* [trainings](#trainings)
+* [courses](#courses)
 <!--te-->
 
 ## blogs
@@ -109,7 +109,7 @@
 | :--- | :---|
 |The unreasonable effectiveness of public work by David Robinson|https://resources.rstudio.com/rstudio-conf-2019/the-unreasonable-effectiveness-of-public-work
 
-## training_materials
+## trainings
 | Resource| URL
 | :--- | :---|
 | Harvard Data Science workshop materials|https://dss.iq.harvard.edu/workshop-materials
@@ -117,7 +117,7 @@
 | Purrr Tutorial|https://jennybc.github.io/purrr-tutorial/index.html 
 
 
-## course_materials
+## courses
 | Resource| URL
 | :--- | :---|
 |Hadley Wickham's Stats 377 readings|https://github.com/hadley/stats337
