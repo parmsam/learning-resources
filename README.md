@@ -1,6 +1,9 @@
 # Sam's List of Useful Resources for Learning
 
 ## blogs
+
+
+## blogs
 | Resource| URL
 | :--- | :---|
 | R weekly|https://rweekly.org/
