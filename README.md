@@ -1,7 +1,19 @@
 # Sam's List of Useful Resources for Learning
 
+## Table of Contents
 ## blogs
-
+## books and documentation
+## interactive learning websites
+## style guide
+## practice quizes and exams
+## color selection
+## journals
+## newsletters
+## webinars
+## podcasts
+## talks
+## workshops, trainings, and tutorials
+## course materials
 
 ## blogs
 | Resource| URL
@@ -94,6 +106,7 @@
 | Resource| URL
 | :--- | :---|
 |The unreasonable effectiveness of public work by David Robinson|https://resources.rstudio.com/rstudio-conf-2019/the-unreasonable-effectiveness-of-public-work
+
 ## workshops, trainings, and tutorials
 | Resource| URL
 | :--- | :---|
