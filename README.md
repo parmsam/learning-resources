@@ -57,6 +57,8 @@
 | :--- | :---|
 | Read Aloud: A Text to Speech Voice Reader | https://chrome.google.com/webstore/detail/read-aloud-a-text-to-spee/hdhinadidafjejdhmfkjgnolgimiaplp?hl=en
 | Wolfram Alpha | https://www.wolframalpha.com/extensions/chrome-extension.html
+| Zotero Connector | https://chrome.google.com/webstore/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc
+
 ## interactive_learning
 | Resource| URL
 | :--- | :---|
