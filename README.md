@@ -81,6 +81,7 @@
 | :--- | :---|
 | SQL, Python, HTML and others|https://www.w3schools.com/
 |SQL Exercises |https://en.wikibooks.org/wiki/SQL_Exercises
+|Advent of Code |https://adventofcode.com/
 
 ## color_selection
 | Resource| URL
