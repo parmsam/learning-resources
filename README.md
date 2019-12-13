@@ -16,6 +16,7 @@
 * [trainings](#trainings)
 * [courses](#courses)
 * [chrome_extensions](#chrome_extensions)
+* [applications](#applications)
 <!--te-->
 
 ## blogs
@@ -52,12 +53,18 @@
 | Learning Statistics with R| https://learningstatisticswithr.com/
 | Text mining with R by Julia Silge and David Robinson| https://www.tidytextmining.com/
 
+## applications 
+| Resource| URL
+| :--- | :---|
+| Zotero | https://www.zotero.org/
+
 ## chrome_extensions
 | Resource| URL
 | :--- | :---|
 | Read Aloud: A Text to Speech Voice Reader | https://chrome.google.com/webstore/detail/read-aloud-a-text-to-spee/hdhinadidafjejdhmfkjgnolgimiaplp?hl=en
 | Wolfram Alpha | https://www.wolframalpha.com/extensions/chrome-extension.html
 | Zotero Connector | https://chrome.google.com/webstore/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc
+| Copy All URLs | https://chrome.google.com/webstore/detail/copy-all-urls/djdmadneanknadilpjiknlnanaolmbfk?hl=en
 
 ## interactive_learning
 | Resource| URL
