@@ -7,6 +7,7 @@
 * [interactive_learning](#interactive_learning)
 * [style_guides](#style_guides)
 * [exercises](#exercises)
+* [informational_posts](#informational_posts)
 * [color_selection](#color_selection)
 * [journals](#journals)
 * [newsletters](#newsletters)
@@ -87,8 +88,14 @@
 | Resource| URL
 | :--- | :---|
 | SQL, Python, HTML and others|https://www.w3schools.com/
-|SQL Exercises |https://en.wikibooks.org/wiki/SQL_Exercises
+|SQL Exercises Wikibooks |https://en.wikibooks.org/wiki/SQL_Exercises
 |Advent of Code |https://adventofcode.com/
+|SQL Zoo| https://sqlzoo.net/
+
+## informational_posts
+| Resource| URL
+| :--- | :---|
+| Top 50 most important SQL queries in 2020| https://bytescout.com/blog/20-important-sql-queries.html
 
 ## color_selection
 | Resource| URL
