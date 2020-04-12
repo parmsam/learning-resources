@@ -53,6 +53,12 @@
 | Official Python Documentation|https://docs.python.org/
 | Learning Statistics with R| https://learningstatisticswithr.com/
 | Text mining with R by Julia Silge and David Robinson| https://www.tidytextmining.com/
+| Automate the Boring Stuff with Python by Al Sweigart | https://automatetheboringstuff.com/
+| Learn Python 3 the Hard Way by Zed Shaw | https://learncodethehardway.org/python/
+| Python Programming: An Introduction to Computer Science by John M. Zelle | https://mcsp.wartburg.edu/zelle/python/
+| How Charts Lie: Getting Smarter about Visual Information by Alberto Cairo | https://wwnorton.com/books/9781324001560
+| Practical Statistics for Data Scientists by Peter Bruce & Andrew Bruce | http://shop.oreilly.com/product/0636920048992.do
+
 
 ## applications 
 | Resource| URL
