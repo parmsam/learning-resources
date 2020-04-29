@@ -32,7 +32,7 @@
 | Variance Explained|http://varianceexplained.org/
 | Krebs on Security|https://krebsonsecurity.com/
 | Suzan Baert|https://suzan.rbind.io/
-
+| Haseeb Qureshi| https://haseebq.com/
 
 ## books
 | Resource| URL
