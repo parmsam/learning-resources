@@ -76,8 +76,9 @@
 ## interactive_learning
 | Resource| URL
 | :--- | :---|
-| Regex|https://regexone.com/
-| Flukeout|https://flukeout.github.io/
+| Regex One (learn regex)|https://regexone.com/
+| Regular Expressions 101 (online regex tester and debugger)| https://regex101.com/
+| Flukeout (learn css)|https://flukeout.github.io/
 | Book of Proofs|https://www.bookofproofs.org/
 | National HIV Curriculum|https://www.hiv.uw.edu/
 | She Loves Math|https://www.shelovesmath.com/ 
