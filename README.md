@@ -58,7 +58,8 @@
 | Python Programming: An Introduction to Computer Science by John M. Zelle | https://mcsp.wartburg.edu/zelle/python/
 | How Charts Lie: Getting Smarter about Visual Information by Alberto Cairo | https://wwnorton.com/books/9781324001560
 | Practical Statistics for Data Scientists by Peter Bruce & Andrew Bruce | http://shop.oreilly.com/product/0636920048992.do
-
+| Statistical Inference via Data Science | https://moderndive.com/
+| Applied Statistics with R | http://daviddalpiaz.github.io/appliedstats/
 
 ## applications 
 | Resource| URL
