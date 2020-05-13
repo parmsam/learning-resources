@@ -91,6 +91,7 @@
 | :--- | :---|
 | Tidyverse Style Guide by Hadley Wickham|https://style.tidyverse.org/
 | Google's Style Guides|http://google.github.io/styleguide/
+| SQL Style Guide| https://www.sqlstyle.guide/
 
 ## exercises
 | Resource| URL
