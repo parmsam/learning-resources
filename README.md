@@ -33,6 +33,7 @@
 | Krebs on Security|https://krebsonsecurity.com/
 | Suzan Baert|https://suzan.rbind.io/
 | Haseeb Qureshi| https://haseebq.com/
+| Rebecca Barter|http://www.rebeccabarter.com/
 
 ## books
 | Resource| URL
