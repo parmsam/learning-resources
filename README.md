@@ -80,6 +80,7 @@
 | :--- | :---|
 | Regex One (learn regex)|https://regexone.com/
 | Regular Expressions 101 (online regex tester and debugger)| https://regex101.com/
+| Regex Crossword| https://regexcrossword.com/
 | Flukeout (learn css)|https://flukeout.github.io/
 | Book of Proofs|https://www.bookofproofs.org/
 | National HIV Curriculum|https://www.hiv.uw.edu/
