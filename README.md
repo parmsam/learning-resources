@@ -61,6 +61,7 @@
 | Practical Statistics for Data Scientists by Peter Bruce & Andrew Bruce | http://shop.oreilly.com/product/0636920048992.do
 | Statistical Inference via Data Science | https://moderndive.com/
 | Applied Statistics with R | http://daviddalpiaz.github.io/appliedstats/
+| Eloquent Javascript by Marijn Haverbeke |https://eloquentjavascript.net/
 
 ## applications 
 | Resource| URL
