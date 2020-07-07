@@ -88,6 +88,8 @@
 | She Loves Math|https://www.shelovesmath.com/ 
 | Our World in Data|https://ourworldindata.org/
 | Cplusplus|http://www.cplusplus.com/
+| Dataquest|https://www.dataquest.io/
+| freeCodeCamp| https://www.freecodecamp.org/
 
 ## style_guides
 | Resource| URL
