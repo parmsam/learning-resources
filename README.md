@@ -34,6 +34,7 @@
 | Suzan Baert|https://suzan.rbind.io/
 | Haseeb Qureshi| https://haseebq.com/
 | Rebecca Barter|http://www.rebeccabarter.com/
+| ggplot2tutor |https://ggplot2tutor.com/
 
 ## books
 | Resource| URL
@@ -62,6 +63,7 @@
 | Statistical Inference via Data Science | https://moderndive.com/
 | Applied Statistics with R | http://daviddalpiaz.github.io/appliedstats/
 | Eloquent Javascript by Marijn Haverbeke |https://eloquentjavascript.net/
+
 
 ## applications 
 | Resource| URL
