@@ -25,7 +25,6 @@
 | :--- | :---|
 | R weekly|https://rweekly.org/
 | R views|https://rviews.rstudio.com/
-| Rstudio staff member blog|http://josiahparry.com/
 | Count Bayesie|https://www.countbayesie.com/
 | That's so Random|https://edwinth.github.io/
 | Deeply Trivial|http://www.deeplytrivial.com/p/about.html
