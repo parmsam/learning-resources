@@ -18,6 +18,7 @@
 * [courses](#courses)
 * [chrome_extensions](#chrome_extensions)
 * [applications](#applications)
+* [R_packages](#R_packages)
 <!--te-->
 
 ## blogs
@@ -34,6 +35,7 @@
 | Haseeb Qureshi| https://haseebq.com/
 | Rebecca Barter|http://www.rebeccabarter.com/
 | ggplot2tutor |https://ggplot2tutor.com/
+| Julia Silge | https://juliasilge.com/
 
 ## books
 | Resource| URL
@@ -159,3 +161,12 @@
 | Resource| URL
 | :--- | :---|
 |Hadley Wickham's Stats 377 readings|https://github.com/hadley/stats337
+
+## R_packages
+| Resource| URL
+| :--- | :---|
+|Tidyverse|https://www.tidyverse.org/
+|Tidymodels|https://www.tidymodels.org/
+|janitor|https://github.com/sfirke/janitor
+
+
