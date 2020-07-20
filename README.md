@@ -36,6 +36,7 @@
 | Rebecca Barter|http://www.rebeccabarter.com/
 | ggplot2tutor |https://ggplot2tutor.com/
 | Julia Silge | https://juliasilge.com/
+| Sex, Drugs and Data| http://giorasimchoni.com/
 
 ## books
 | Resource| URL
