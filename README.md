@@ -166,8 +166,9 @@
 ## R_packages
 | Resource| URL
 | :--- | :---|
-|Tidyverse|https://www.tidyverse.org/
-|Tidymodels|https://www.tidymodels.org/
+|tidyverse|https://www.tidyverse.org/
+|tidymodels|https://www.tidymodels.org/
 |janitor|https://github.com/sfirke/janitor
-|Shiny|https://shiny.rstudio.com/
+|skimr|https://github.com/ropensci/skimr
+|shiny|https://shiny.rstudio.com/
 
