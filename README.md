@@ -37,6 +37,7 @@
 | ggplot2tutor |https://ggplot2tutor.com/
 | Julia Silge | https://juliasilge.com/
 | Sex, Drugs and Data| http://giorasimchoni.com/
+|Amelia Wattenberger| https://wattenberger.com/
 
 ## books
 | Resource| URL
